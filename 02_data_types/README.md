@@ -1,5 +1,6 @@
 ## Data Types
 | Type | Size | Range |
+| ---- | ---- | ----- |
 | char | 1 byte | -128 to 127 or 0 to 255 |
 | unsigned char | 1 byte | 0 to 255 |
 | signed char | 1 byte | -128 to 127 |
@@ -28,6 +29,7 @@ printf("%d", a);
 Here, `%d` is a signed decimal number (`%i` works the same for output).
 Some (not all) other types:
 | Type | Format |
+| ---- | ------ |
 | int | %d |
 | char | %c |
 | long | %ld |
