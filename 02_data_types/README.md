@@ -28,6 +28,7 @@ printf("%d", a);
 ```
 Here, `%d` is a signed decimal number (`%i` works the same for output).
 Some (not all) other types:
+
 | Type | Format |
 | ---- | ------ |
 | int | %d |
